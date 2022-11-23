@@ -4,6 +4,8 @@ A web app that tracks the user's posture in real-time and notifes them when they
 
 ## Demo
 
+See video demo [here](https://youtu.be/8nwTfgI1b7s).
+
 When the user has good posture, nothing happens.
 ![app demo when user has good posture](public/good-posture-demo.png)
 
