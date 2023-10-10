@@ -20,6 +20,8 @@ A react-webcam component takes in a live video feed from the user's webcam and p
 
 ## To use the app
 
+The app is not deployed anywhere, so currently the only way to play with it is to serve it locally in development mode.
+
 Clone the repositiory. Then, inside the project directory, run:
 
 ### `npm install`
@@ -28,4 +30,4 @@ Installs the project dependencies.
 
 ### `npm run start`
 
-Runs the app. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
